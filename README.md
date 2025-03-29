@@ -4,7 +4,7 @@ This is a free project to you convert images and pdf with python.
 
 ## Libraries
 
-- streamlit → Framework to create the application's web interface.
+- [streamlit](https://docs.streamlit.io/develop/api-reference) → Framework to create the application's web interface.
 - Pillow (PIL) → Image manipulation.
 - pdf2image → PDF to image conversion.
 - rembg → Image background removal.

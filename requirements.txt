@@ -2,3 +2,4 @@ streamlit==1.44.0
 pillow==11.1.0
 pdf2image==1.17.0
 rembg==2.0.65
+onnxruntime==1.21.0
