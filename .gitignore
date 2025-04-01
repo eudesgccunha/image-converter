@@ -1,5 +1,5 @@
 *.pdf
-*jpg
+*.jpg
 *.jpeg
 *.png
 *.gif
@@ -18,3 +18,9 @@
 *.zip
 /__pycache__/
 *.py[cod]
+notebook_temp.ipynb
+*.ipynb_checkpoints
+*.pyc
+*.db
+*.sqlite3
+*.log
